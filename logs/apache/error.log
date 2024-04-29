@@ -1,0 +1,26 @@
+[Thu Apr 18 10:22:41.928515 2024] [mpm_winnt:notice] [pid 29276:tid 824] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Apr 18 10:22:41.929515 2024] [mpm_winnt:notice] [pid 29276:tid 824] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Apr 18 10:22:41.929515 2024] [core:notice] [pid 29276:tid 824] AH00094: Command line: 'C:\\Users\\filny\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/filny/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\filny\\AppData\\Roaming\\Local\\run\\o65zV7YgB\\conf\\apache\\apache2.conf'
+[Thu Apr 18 10:22:41.931771 2024] [mpm_winnt:notice] [pid 29276:tid 824] AH00418: Parent: Created child process 8148
+[Thu Apr 18 10:22:42.498664 2024] [mpm_winnt:notice] [pid 8148:tid 804] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 19 12:12:05.845111 2024] [core:warn] [pid 15760:tid 756] AH00098: pid file C:/Users/filny/AppData/Roaming/Local/run/o65zV7YgB/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 19 12:12:05.848120 2024] [mpm_winnt:notice] [pid 15760:tid 756] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Fri Apr 19 12:12:05.848120 2024] [mpm_winnt:notice] [pid 15760:tid 756] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Apr 19 12:12:05.848120 2024] [core:notice] [pid 15760:tid 756] AH00094: Command line: 'C:\\Users\\filny\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/filny/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\filny\\AppData\\Roaming\\Local\\run\\o65zV7YgB\\conf\\apache\\apache2.conf'
+[Fri Apr 19 12:12:05.851134 2024] [mpm_winnt:notice] [pid 15760:tid 756] AH00418: Parent: Created child process 20236
+[Fri Apr 19 12:12:06.563701 2024] [mpm_winnt:notice] [pid 20236:tid 812] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 19 12:25:09.434291 2024] [core:warn] [pid 16420:tid 772] AH00098: pid file C:/Users/filny/AppData/Roaming/Local/run/o65zV7YgB/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 19 12:25:09.439033 2024] [mpm_winnt:notice] [pid 16420:tid 772] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Fri Apr 19 12:25:09.439033 2024] [mpm_winnt:notice] [pid 16420:tid 772] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Apr 19 12:25:09.439033 2024] [core:notice] [pid 16420:tid 772] AH00094: Command line: 'C:\\Users\\filny\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/filny/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\filny\\AppData\\Roaming\\Local\\run\\o65zV7YgB\\conf\\apache\\apache2.conf'
+[Fri Apr 19 12:25:09.443050 2024] [mpm_winnt:notice] [pid 16420:tid 772] AH00418: Parent: Created child process 4624
+[Fri Apr 19 12:25:10.051332 2024] [mpm_winnt:notice] [pid 4624:tid 844] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 2606:40:1f1:9f1b::662:c6be. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 25 09:33:32.852201 2024] [core:warn] [pid 14468:tid 764] AH00098: pid file C:/Users/filny/AppData/Roaming/Local/run/o65zV7YgB/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 25 09:33:32.855201 2024] [mpm_winnt:notice] [pid 14468:tid 764] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Apr 25 09:33:32.855201 2024] [mpm_winnt:notice] [pid 14468:tid 764] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Apr 25 09:33:32.855201 2024] [core:notice] [pid 14468:tid 764] AH00094: Command line: 'C:\\Users\\filny\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/filny/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\filny\\AppData\\Roaming\\Local\\run\\o65zV7YgB\\conf\\apache\\apache2.conf'
+[Thu Apr 25 09:33:32.859201 2024] [mpm_winnt:notice] [pid 14468:tid 764] AH00418: Parent: Created child process 19600
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 2606:40:1f1:9f1b::662:c6be. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 2606:40:1f1:9f1b::662:c6be. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 25 09:33:33.528307 2024] [mpm_winnt:notice] [pid 19600:tid 828] AH00354: Child: Starting 64 worker threads.
